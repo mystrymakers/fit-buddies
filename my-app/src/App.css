@@ -1,0 +1,42 @@
+.card{
+  width: 25rem;
+  height: 20rem;
+  margin-top:2rem;
+  margin-left:10px;
+  margin-right:10px;
+  display:inline-block;
+  float: none; /* Added */
+  margin-bottom: 10px; /* Added */
+}
+.card-img-top {
+  width: 100%;
+}
+.center{
+  line-height: 1.5;
+  height: 200px;
+  display: inline-block;
+  vertical-align: middle;
+}
+.para{
+  margin-left:5rem;
+  margin-right:5rem;
+  margin-top:2rem;
+}
+.special{
+  width:15rem;
+  margin-left:5rem;
+}
+.fontsizeinc{
+  font-size: medium;
+  font-weight:bold;
+}
+
+.carousel-inner{
+  height: 300px;
+}
+
+.item, img{
+  height: 100% !important;
+  width:  100% !important;
+  border: 1px solid red;
+}
